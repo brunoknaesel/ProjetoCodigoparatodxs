@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodigoParaTodxs-Bruno Knaesel/1.0.0": {
+        "runtime": {
+          "CodigoParaTodxs-Bruno Knaesel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodigoParaTodxs-Bruno Knaesel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

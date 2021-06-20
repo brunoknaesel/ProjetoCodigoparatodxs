@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\bin\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.exe
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\bin\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.deps.json
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\bin\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.runtimeconfig.json
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\bin\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.runtimeconfig.dev.json
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\bin\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.dll
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\bin\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.pdb
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.AssemblyInfo.cs
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.dll
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.pdb
+C:\Users\User\source\repos\CodigoParaTodxs-Bruno Knaesel\obj\Debug\netcoreapp3.1\CodigoParaTodxs-Bruno Knaesel.genruntimeconfig.cache
